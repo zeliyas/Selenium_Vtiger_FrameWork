@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <groups>
+      <run>
+        <include name="smokeTest"/>
+        <include name="regressionTest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.vtiger.oppurtunities.EndtoEndTest">
+        <methods>
+          <include name="EndtoEnd1Test"/>
+          <include name="configBM"/>
+        </methods>
+      </class> <!-- com.vtiger.oppurtunities.EndtoEndTest -->
+      <class name="com.vtiger.oppurtunities.OppurtunitiesTest">
+        <methods>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_Type_NewBuisinessTest"/>
+          <include name="edit_OppurtunitiesWith_MassEditButton_AmountTest"/>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_NextStepTest"/>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_Group_SupportGroupTest"/>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_LeadSource_WebsiteTest"/>
+        </methods>
+      </class> <!-- com.vtiger.oppurtunities.OppurtunitiesTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

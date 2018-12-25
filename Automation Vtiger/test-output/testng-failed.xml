@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.vtiger.oppurtunities.OppurtunitiesTest">
+        <methods>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_Type_NewBuisinessTest"/>
+          <include name="edit_OppurtunitiesWith_MassEditButton_AmountTest"/>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_NextStepTest"/>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_Group_SupportGroupTest"/>
+          <include name="configBC"/>
+          <include name="Edit_OppurtunitiesWith_MassEditButton_LeadSource_WebsiteTest"/>
+        </methods>
+      </class> <!-- com.vtiger.oppurtunities.OppurtunitiesTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launch Browser]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2018-12-24T04:35:32Z" name="Default suite" finished-at="2018-12-24T04:43:28Z" duration-ms="476056">
+    <groups>
+      <group name="regressionTest">
+        <method signature="OppurtunitiesTest.Edit_OppurtunitiesWith_MassEditButton_Group_SupportGroupTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" name="Edit_OppurtunitiesWith_MassEditButton_Group_SupportGroupTest" class="com.vtiger.oppurtunities.OppurtunitiesTest"/>
+        <method signature="OppurtunitiesTest.Edit_OppurtunitiesWith_MassEditButton_LeadSource_WebsiteTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" name="Edit_OppurtunitiesWith_MassEditButton_LeadSource_WebsiteTest" class="com.vtiger.oppurtunities.OppurtunitiesTest"/>
+        <method signature="OppurtunitiesTest.Edit_OppurtunitiesWith_MassEditButton_NextStepTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" name="Edit_OppurtunitiesWith_MassEditButton_NextStepTest" class="com.vtiger.oppurtunities.OppurtunitiesTest"/>
+        <method signature="OppurtunitiesTest.Edit_OppurtunitiesWith_MassEditButton_Type_NewBuisinessTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" name="Edit_OppurtunitiesWith_MassEditButton_Type_NewBuisinessTest" class="com.vtiger.oppurtunities.OppurtunitiesTest"/>
+        <method signature="OppurtunitiesTest.edit_OppurtunitiesWith_MassEditButton_AmountTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" name="edit_OppurtunitiesWith_MassEditButton_AmountTest" class="com.vtiger.oppurtunities.OppurtunitiesTest"/>
+      </group> <!-- regressionTest -->
+    </groups>
+    <test started-at="2018-12-24T04:35:32Z" name="Default test" finished-at="2018-12-24T04:43:28Z" duration-ms="476056">
+      <class name="com.vtiger.oppurtunities.OppurtunitiesTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:05:32Z" name="configBC" finished-at="2018-12-24T10:05:42Z" duration-ms="9988" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launch Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:05:42Z" name="configBM" finished-at="2018-12-24T10:05:51Z" duration-ms="9412" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="Edit_OppurtunitiesWith_MassEditButton_Group_SupportGroupTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:05:51Z" name="Edit_OppurtunitiesWith_MassEditButton_Group_SupportGroupTest" finished-at="2018-12-24T10:07:18Z" duration-ms="86216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edit_OppurtunitiesWith_MassEditButton_Group_SupportGroupTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:07:18Z" name="configAM" finished-at="2018-12-24T10:07:20Z" duration-ms="2872" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:07:20Z" name="configBM" finished-at="2018-12-24T10:07:28Z" duration-ms="7205" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="Edit_OppurtunitiesWith_MassEditButton_LeadSource_WebsiteTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:07:28Z" name="Edit_OppurtunitiesWith_MassEditButton_LeadSource_WebsiteTest" finished-at="2018-12-24T10:08:48Z" duration-ms="80574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edit_OppurtunitiesWith_MassEditButton_LeadSource_WebsiteTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:08:48Z" name="configAM" finished-at="2018-12-24T10:08:52Z" duration-ms="3245" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:08:52Z" name="configBM" finished-at="2018-12-24T10:08:58Z" duration-ms="6556" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="Edit_OppurtunitiesWith_MassEditButton_NextStepTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:08:58Z" name="Edit_OppurtunitiesWith_MassEditButton_NextStepTest" finished-at="2018-12-24T10:10:20Z" duration-ms="82046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edit_OppurtunitiesWith_MassEditButton_NextStepTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:10:20Z" name="configAM" finished-at="2018-12-24T10:10:23Z" duration-ms="2586" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:10:23Z" name="configBM" finished-at="2018-12-24T10:10:30Z" duration-ms="7034" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="Edit_OppurtunitiesWith_MassEditButton_Type_NewBuisinessTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:10:30Z" name="Edit_OppurtunitiesWith_MassEditButton_Type_NewBuisinessTest" finished-at="2018-12-24T10:11:55Z" duration-ms="85037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Edit_OppurtunitiesWith_MassEditButton_Type_NewBuisinessTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:11:55Z" name="configAM" finished-at="2018-12-24T10:11:57Z" duration-ms="2694" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:11:57Z" name="configBM" finished-at="2018-12-24T10:12:04Z" duration-ms="6998" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="edit_OppurtunitiesWith_MassEditButton_AmountTest()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:12:04Z" name="edit_OppurtunitiesWith_MassEditButton_AmountTest" finished-at="2018-12-24T10:13:25Z" duration-ms="80685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edit_OppurtunitiesWith_MassEditButton_AmountTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:13:25Z" name="configAM" finished-at="2018-12-24T10:13:28Z" duration-ms="2864" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.vtiger.oppurtunities.OppurtunitiesTest@33c911a1]" started-at="2018-12-24T10:13:28Z" name="configAC" finished-at="2018-12-24T10:13:28Z" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.vtiger.oppurtunities.OppurtunitiesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
